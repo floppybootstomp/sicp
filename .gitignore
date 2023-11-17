@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.vim
+*.stash
+*.swp
+*.geany
+*.txt
+moc/*
+Makefile
+rl
